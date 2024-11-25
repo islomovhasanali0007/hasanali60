@@ -1,0 +1,27 @@
+.h1{
+    border-top: solid yellow;
+    border-right: solid yellow;
+    border-left: solid yellow;
+    border-bottom: solid yellow;
+   
+    
+    border-color: yellow;
+    border-width: 15px;
+}
+.h2{
+    border-top: solid red;
+    border-right: solid red;
+    border-left: solid red;
+    border-bottom: solid red;
+    border-color: red;
+    border-width: 15px;
+   
+}
+.h3{
+    border-top: solid red;
+    border-right: groove red;
+    border-left: ridge red;
+    border-bottom: dotted red;
+    border-width: 15px;
+   
+}
